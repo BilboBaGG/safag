@@ -1,1 +1,2 @@
-ECHO is on.
+import os
+os.system("cls")
